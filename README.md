@@ -3,23 +3,22 @@
 
 Production-grade FastAPI backend for managing clinical healthcare data using async microservices architecture.
 
-## Features
-
+**Features**
 * REST APIs for patient data
 * PostgreSQL integration
 * Async DB operations
 * Dockerized setup
 
-## Run
+**Run**
 
 docker-compose up --build
 
-## Endpoints
+**Endpoints**
 
 GET /patients
 POST /patients
 
-## Future
+**Future**
 
 * GraphQL support
 * Redis caching
